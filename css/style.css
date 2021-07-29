@@ -1,0 +1,16 @@
+section {
+  margin-bottom: 5px;
+}
+
+.section-board {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 180px;
+  margin-right: 10px;
+}
+
+.sudoku-board__numbers {
+  width: 40px;
+  height: 40px;
+}
